@@ -6,7 +6,6 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"I:/unrealproj/TechTestDemo/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"I:/unrealproj/TechTestDemo/Content/ThirdPerson/Input/Actions/IA_Dash.uasset",
 				"I:/unrealproj/TechTestDemo/Content/ThirdPerson/Input/IMC_Default.uasset",
 				"I:/unrealproj/TechTestDemo/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"I:/unrealproj/TechTestDemo/Content/Selfmade_Content/Projectile.uasset",
@@ -21,9 +20,13 @@
 				"I:/unrealproj/TechTestDemo/Content/Selfmade_Content/Abilities.uasset",
 				"I:/unrealproj/TechTestDemo/Content/Selfmade_Content/AbilityDatabase.uasset",
 				"I:/unrealproj/TechTestDemo/Content/Selfmade_Content/AbilityType.uasset",
-				"I:/unrealproj/TechTestDemo/Content/Selfmade_Content/BP_Abilit.uasset",
 				"I:/unrealproj/TechTestDemo/Content/Selfmade_Content/BP_Ability.uasset",
-				"I:/unrealproj/TechTestDemo/Content/KTP_Effect/Particles/Bottom/Bottom01-01.uasset"
+				"I:/unrealproj/TechTestDemo/Content/KTP_Effect/Particles/Bottom/Bottom01-01.uasset",
+				"I:/unrealproj/TechTestDemo/Content/Selfmade_Content/BP_Ability_Fireball.uasset",
+				"I:/unrealproj/TechTestDemo/Content/Selfmade_Content/BP_Ability_Resist.uasset",
+				"I:/unrealproj/TechTestDemo/Content/Selfmade_Content/BP_Ability_Dash.uasset",
+				"I:/unrealproj/TechTestDemo/Content/ThirdPerson/Input/Actions/IA_Dash.uasset",
+				"I:/unrealproj/TechTestDemo/Content/Selfmade_Content/BP_Abilit.uasset"
 			]
 		}
 	]
