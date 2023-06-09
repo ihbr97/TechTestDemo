@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"I:/unrealproj/TechTestDemo/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"I:/unrealproj/TechTestDemo/Content/ThirdPerson/Input/Actions/IA_Dash.uasset",
+				"I:/unrealproj/TechTestDemo/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"I:/unrealproj/TechTestDemo/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"I:/unrealproj/TechTestDemo/Content/Selfmade_Content/Projectile.uasset",
+				"I:/unrealproj/TechTestDemo/Content/ThirdPerson/Input/Actions/IA_Skill_1.uasset",
+				"I:/unrealproj/TechTestDemo/Content/Selfmade_Content/Enemy.uasset",
+				"I:/unrealproj/TechTestDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/1G/8MIX5TQ27J5SBQ93AW5ZR1.uasset",
+				"I:/unrealproj/TechTestDemo/Content/Selfmade_Content/Attribute.uasset",
+				"I:/unrealproj/TechTestDemo/Content/Selfmade_Content/Skill_UI.uasset",
+				"I:/unrealproj/TechTestDemo/Content/ThirdPerson/Input/Actions/IA_Skill_3.uasset",
+				"I:/unrealproj/TechTestDemo/Content/ThirdPerson/Input/Actions/IA_Skill_2.uasset",
+				"I:/unrealproj/TechTestDemo/Content/KTP_Effect/Particles/Bottom/Bottom03-03.uasset",
+				"I:/unrealproj/TechTestDemo/Content/Selfmade_Content/Abilities.uasset",
+				"I:/unrealproj/TechTestDemo/Content/Selfmade_Content/AbilityDatabase.uasset",
+				"I:/unrealproj/TechTestDemo/Content/Selfmade_Content/AbilityType.uasset",
+				"I:/unrealproj/TechTestDemo/Content/Selfmade_Content/BP_Abilit.uasset",
+				"I:/unrealproj/TechTestDemo/Content/Selfmade_Content/BP_Ability.uasset",
+				"I:/unrealproj/TechTestDemo/Content/KTP_Effect/Particles/Bottom/Bottom01-01.uasset"
+			]
+		}
+	]
+}
