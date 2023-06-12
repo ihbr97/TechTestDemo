@@ -25,6 +25,15 @@
 				"I:/unrealproj/TechTestDemo/Content/Selfmade_Content/BP_Ability_Fireball.uasset",
 				"I:/unrealproj/TechTestDemo/Content/Selfmade_Content/BP_Ability_Resist.uasset",
 				"I:/unrealproj/TechTestDemo/Content/Selfmade_Content/BP_Ability_Dash.uasset",
+				"I:/unrealproj/TechTestDemo/Content/Selfmade_Content/AbilityBar_UI.uasset",
+				"I:/unrealproj/TechTestDemo/Content/Selfmade_Content/AbilitySlot_UI.uasset",
+				"I:/unrealproj/TechTestDemo/Content/Selfmade_Content/HUD_System.uasset",
+				"I:/unrealproj/TechTestDemo/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"I:/unrealproj/TechTestDemo/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"I:/unrealproj/TechTestDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/EN/S4FKWQD4W4HEE57OC8PXXU.uasset",
+				"I:/unrealproj/TechTestDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/AP/UB4HLL4RYAL0B36LV8WG2U.uasset",
+				"I:/unrealproj/TechTestDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FC/IQ8JOQUKZ8AOH0L5INVK94.uasset",
+				"I:/unrealproj/TechTestDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/X4/KS1JT0V5TC5VQS3OTWOUCQ.uasset",
 				"I:/unrealproj/TechTestDemo/Content/ThirdPerson/Input/Actions/IA_Dash.uasset",
 				"I:/unrealproj/TechTestDemo/Content/Selfmade_Content/BP_Abilit.uasset"
 			]
